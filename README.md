@@ -70,11 +70,7 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/UkritFB/LAB-04/blob/master/4.4.PNG?raw=true)
 
 ###คำถาม 4.2
 
