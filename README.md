@@ -83,9 +83,5 @@
 
 ##สรุปผลการทดลอง
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ -ได้เรียนรู้ถึงการใช้คำสั่ง Console.WriteLine และ  Console.Write
 
