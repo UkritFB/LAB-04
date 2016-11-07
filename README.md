@@ -34,10 +34,8 @@
 
 ####บันทึกผลการทดลอง
 ![](https://github.com/UkritFB/LAB-04/blob/master/4.1.PNG?raw=true)
-<hr>
-<hr>
-<hr>
-<hr>
+
+มีข้อความคำว่า Hello บนหน้าต่าง commandline
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
