@@ -37,17 +37,15 @@
 
 มีข้อความคำว่า Hello บนหน้าต่าง commandline
 
-แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
+- แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P4.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/UkritFB/LAB-04/blob/master/4.2.PNG?raw=true)
+
+- มีข้อความคำว่า HelloWorld บนหน้าต่าง commandline
 
 
 ### คำถาม 4.1 
